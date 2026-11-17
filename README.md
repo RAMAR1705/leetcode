@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RAMAR1705/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RAMAR1705/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RAMAR1705/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RAMAR1705/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RAMAR1705/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RAMAR1705/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RAMAR1705/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RAMAR1705/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RAMAR1705/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RAMAR1705/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RAMAR1705/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Matrix
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RAMAR1705/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RAMAR1705/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RAMAR1705/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
